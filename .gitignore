@@ -1,0 +1,15 @@
+__pycache__/
+.ipynb_checkpoints/
+.env
+*.csv
+*.xlsx
+*.pkl
+*.h5
+*.joblib
+*.model
+*.json
+.DS_Store
+
+data/raw/
+data/processed/
+models/saved/
